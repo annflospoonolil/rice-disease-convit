@@ -12,5 +12,5 @@ tqdm>=4.65.0
 streamlit>=1.30.0
 wandb>=0.16.0
 grad-cam==1.5.5
-
+google-generativeai
 # pip install -r requirements.txt
